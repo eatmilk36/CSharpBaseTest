@@ -1,0 +1,7 @@
+D:\delegateTest\delegateTest\bin\Debug\delegateTest.exe.config
+D:\delegateTest\delegateTest\bin\Debug\delegateTest.exe
+D:\delegateTest\delegateTest\bin\Debug\delegateTest.pdb
+D:\delegateTest\delegateTest\obj\Debug\delegateTest.csprojAssemblyReference.cache
+D:\delegateTest\delegateTest\obj\Debug\delegateTest.csproj.CoreCompileInputs.cache
+D:\delegateTest\delegateTest\obj\Debug\delegateTest.exe
+D:\delegateTest\delegateTest\obj\Debug\delegateTest.pdb
